@@ -5,4 +5,4 @@ Participantes:
 
 - Gustavo Miguel
 - João Vedroni
-- Kauan Piacente
+- @kauanzeraaa
